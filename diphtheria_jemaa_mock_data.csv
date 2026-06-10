@@ -1,0 +1,201 @@
+Patient_ID,Age,Gender,Ward,Vaccination_Status,Outcome,Date_of_Onset
+DIP-001,4,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-01
+DIP-002,12,Male,Kafanchan B,Partially Vaccinated,Recovered,2026-04-01
+DIP-003,3,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-02
+DIP-004,8,Female,Godogodo,Fully Vaccinated,Recovered,2026-04-03
+DIP-005,5,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-03
+DIP-006,14,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-04-04
+DIP-007,2,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-05
+DIP-008,7,Female,Kaninkon,Partially Vaccinated,Recovered,2026-04-05
+DIP-009,6,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-06
+DIP-010,11,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-04-06
+DIP-011,1,Female,Godogodo,Unvaccinated,Severe/Hospitalized,2026-04-07
+DIP-012,9,Male,Asso,Partially Vaccinated,Recovered,2026-04-07
+DIP-013,4,Female,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-04-08
+DIP-014,13,Male,Kaninkon,Fully Vaccinated,Recovered,2026-04-08
+DIP-015,5,Female,Kafanchan A,Partially Vaccinated,Severe/Hospitalized,2026-04-09
+DIP-016,3,Male,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-04-09
+DIP-017,10,Female,Jagindi,Fully Vaccinated,Recovered,2026-04-10
+DIP-018,7,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-04-10
+DIP-019,2,Female,Asso,Unvaccinated,Severe/Hospitalized,2026-04-11
+DIP-020,15,Male,Gidan Waya,Fully Vaccinated,Recovered,2026-04-11
+DIP-021,6,Female,Kaninkon,Partially Vaccinated,Recovered,2026-04-12
+DIP-022,4,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-12
+DIP-023,12,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-04-13
+DIP-024,8,Male,Jagindi,Partially Vaccinated,Recovered,2026-04-13
+DIP-025,3,Female,Godogodo,Unvaccinated,Severe/Hospitalized,2026-04-14
+DIP-026,5,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-14
+DIP-027,11,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-04-15
+DIP-028,7,Male,Kaninkon,Partially Vaccinated,Severe/Hospitalized,2026-04-15
+DIP-029,2,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-16
+DIP-030,9,Male,Kafanchan B,Fully Vaccinated,Recovered,2026-04-16
+DIP-031,6,Female,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-17
+DIP-032,13,Male,Godogodo,Fully Vaccinated,Recovered,2026-04-17
+DIP-033,4,Female,Asso,Unvaccinated,Severe/Hospitalized,2026-04-18
+DIP-034,10,Male,Gidan Waya,Partially Vaccinated,Recovered,2026-04-18
+DIP-035,5,Female,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-19
+DIP-036,8,Male,Kafanchan A,Fully Vaccinated,Recovered,2026-04-19
+DIP-037,3,Female,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-04-20
+DIP-038,14,Male,Jagindi,Fully Vaccinated,Recovered,2026-04-20
+DIP-039,7,Female,Godogodo,Partially Vaccinated,Recovered,2026-04-21
+DIP-040,2,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-21
+DIP-041,11,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-04-22
+DIP-042,6,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-22
+DIP-043,5,Female,Kafanchan A,Partially Vaccinated,Recovered,2026-04-23
+DIP-044,9,Male,Kafanchan B,Fully Vaccinated,Recovered,2026-04-23
+DIP-045,4,Female,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-24
+DIP-046,12,Male,Godogodo,Fully Vaccinated,Recovered,2026-04-24
+DIP-047,3,Female,Asso,Unvaccinated,Severe/Hospitalized,2026-04-25
+DIP-048,8,Male,Gidan Waya,Partially Vaccinated,Recovered,2026-04-25
+DIP-049,10,Female,Kaninkon,Fully Vaccinated,Recovered,2026-04-26
+DIP-050,5,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-26
+DIP-051,13,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-04-27
+DIP-052,2,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-27
+DIP-053,7,Female,Godogodo,Partially Vaccinated,Severe/Hospitalized,2026-04-28
+DIP-054,6,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-28
+DIP-055,15,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-04-29
+DIP-056,4,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-29
+DIP-057,9,Female,Kafanchan A,Partially Vaccinated,Recovered,2026-04-30
+DIP-058,3,Male,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-04-30
+DIP-059,11,Female,Jagindi,Fully Vaccinated,Recovered,2026-05-01
+DIP-060,5,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-01
+DIP-061,8,Female,Asso,Partially Vaccinated,Recovered,2026-05-02
+DIP-062,14,Male,Gidan Waya,Fully Vaccinated,Recovered,2026-05-02
+DIP-063,2,Female,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-05-03
+DIP-064,6,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-05-03
+DIP-065,10,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-05-04
+DIP-066,4,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-05-04
+DIP-067,12,Female,Godogodo,Fully Vaccinated,Recovered,2026-05-05
+DIP-068,7,Male,Asso,Partially Vaccinated,Recovered,2026-05-05
+DIP-069,3,Female,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-05-06
+DIP-070,13,Male,Kaninkon,Fully Vaccinated,Recovered,2026-05-06
+DIP-071,5,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-05-07
+DIP-072,9,Male,Kafanchan B,Partially Vaccinated,Recovered,2026-05-07
+DIP-073,2,Female,Jagindi,Unvaccinated,Severe/Hospitalized,2026-05-08
+DIP-074,8,Male,Godogodo,Fully Vaccinated,Recovered,2026-05-08
+DIP-075,6,Female,Asso,Unvaccinated,Severe/Hospitalized,2026-05-09
+DIP-076,11,Male,Gidan Waya,Fully Vaccinated,Recovered,2026-05-09
+DIP-077,4,Female,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-05-10
+DIP-078,7,Male,Kafanchan A,Partially Vaccinated,Severe/Hospitalized,2026-05-10
+DIP-079,3,Female,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-05-11
+DIP-080,15,Male,Jagindi,Fully Vaccinated,Recovered,2026-05-11
+DIP-081,5,Female,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-12
+DIP-082,10,Male,Asso,Fully Vaccinated,Recovered,2026-05-12
+DIP-083,2,Female,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-05-13
+DIP-084,12,Male,Kaninkon,Partially Vaccinated,Recovered,2026-05-13
+DIP-085,6,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-05-14
+DIP-086,14,Male,Kafanchan B,Fully Vaccinated,Recovered,2026-05-14
+DIP-087,4,Female,Jagindi,Unvaccinated,Severe/Hospitalized,2026-05-15
+DIP-088,8,Male,Godogodo,Partially Vaccinated,Recovered,2026-05-15
+DIP-089,3,Female,Asso,Unvaccinated,Severe/Hospitalized,2026-05-16
+DIP-090,13,Male,Gidan Waya,Fully Vaccinated,Recovered,2026-05-16
+DIP-091,7,Female,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-05-17
+DIP-092,9,Male,Kafanchan A,Fully Vaccinated,Recovered,2026-05-17
+DIP-093,2,Female,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-05-18
+DIP-094,11,Male,Jagindi,Partially Vaccinated,Recovered,2026-05-18
+DIP-095,5,Female,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-19
+DIP-096,6,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-05-19
+DIP-097,10,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-05-20
+DIP-098,4,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-05-20
+DIP-099,12,Female,Kafanchan A,Fully Vaccinated,Recovered,2026-05-21
+DIP-100,3,Male,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-05-21
+DIP-101,8,Female,Jagindi,Partially Vaccinated,Recovered,2026-05-22
+DIP-102,5,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-22
+DIP-103,14,Female,Asso,Fully Vaccinated,Recovered,2026-05-23
+DIP-104,2,Male,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-05-23
+DIP-105,7,Female,Kaninkon,Partially Vaccinated,Recovered,2026-05-24
+DIP-106,6,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-05-24
+DIP-107,13,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-05-25
+DIP-108,4,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-05-25
+DIP-109,9,Female,Godogodo,Fully Vaccinated,Recovered,2026-05-26
+DIP-110,3,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-05-26
+DIP-111,11,Female,Gidan Waya,Partially Vaccinated,Recovered,2026-05-27
+DIP-112,5,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-05-27
+DIP-113,8,Female,Kafanchan A,Fully Vaccinated,Recovered,2026-05-28
+DIP-114,2,Male,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-05-28
+DIP-115,10,Female,Jagindi,Fully Vaccinated,Recovered,2026-05-29
+DIP-116,6,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-29
+DIP-117,15,Female,Asso,Fully Vaccinated,Recovered,2026-05-30
+DIP-118,4,Male,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-05-30
+DIP-119,7,Female,Kaninkon,Partially Vaccinated,Severe/Hospitalized,2026-03-28
+DIP-120,12,Male,Kafanchan A,Fully Vaccinated,Recovered,2026-03-29
+DIP-121,3,Female,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-03-29
+DIP-122,5,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-03-30
+DIP-123,9,Female,Godogodo,Partially Vaccinated,Recovered,2026-03-31
+DIP-124,14,Male,Asso,Fully Vaccinated,Recovered,2026-03-31
+DIP-125,2,Female,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-04-01
+DIP-126,8,Male,Kaninkon,Fully Vaccinated,Recovered,2026-04-02
+DIP-127,6,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-02
+DIP-128,11,Male,Kafanchan B,Partially Vaccinated,Recovered,2026-04-03
+DIP-129,4,Female,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-04
+DIP-130,13,Male,Godogodo,Fully Vaccinated,Recovered,2026-04-04
+DIP-131,3,Female,Asso,Unvaccinated,Severe/Hospitalized,2026-04-05
+DIP-132,7,Male,Gidan Waya,Partially Vaccinated,Recovered,2026-04-05
+DIP-133,10,Female,Kaninkon,Fully Vaccinated,Recovered,2026-04-06
+DIP-134,5,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-06
+DIP-135,2,Female,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-04-07
+DIP-136,12,Male,Jagindi,Fully Vaccinated,Recovered,2026-04-07
+DIP-137,8,Female,Godogodo,Partially Vaccinated,Recovered,2026-04-08
+DIP-138,4,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-08
+DIP-139,15,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-04-09
+DIP-140,6,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-09
+DIP-141,3,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-10
+DIP-142,9,Male,Kafanchan B,Fully Vaccinated,Recovered,2026-04-10
+DIP-143,11,Female,Jagindi,Partially Vaccinated,Recovered,2026-04-11
+DIP-144,5,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-04-11
+DIP-145,7,Female,Asso,Fully Vaccinated,Recovered,2026-04-12
+DIP-146,2,Male,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-04-12
+DIP-147,14,Female,Kaninkon,Fully Vaccinated,Recovered,2026-04-13
+DIP-148,4,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-13
+DIP-149,8,Female,Kafanchan B,Partially Vaccinated,Recovered,2026-04-14
+DIP-150,3,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-14
+DIP-151,10,Female,Godogodo,Fully Vaccinated,Recovered,2026-04-15
+DIP-152,5,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-15
+DIP-153,13,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-04-16
+DIP-154,6,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-16
+DIP-155,2,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-17
+DIP-156,12,Male,Kafanchan B,Partially Vaccinated,Recovered,2026-04-17
+DIP-157,4,Female,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-18
+DIP-158,7,Male,Godogodo,Fully Vaccinated,Recovered,2026-04-18
+DIP-159,9,Female,Asso,Partially Vaccinated,Recovered,2026-04-19
+DIP-160,3,Male,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-04-19
+DIP-161,5,Female,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-20
+DIP-162,11,Male,Kafanchan A,Fully Vaccinated,Recovered,2026-04-20
+DIP-163,8,Female,Kafanchan B,Partially Vaccinated,Recovered,2026-04-21
+DIP-164,2,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-21
+DIP-165,15,Female,Godogodo,Fully Vaccinated,Recovered,2026-04-22
+DIP-166,6,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-22
+DIP-167,4,Female,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-04-23
+DIP-168,14,Male,Kaninkon,Fully Vaccinated,Recovered,2026-04-23
+DIP-169,7,Female,Kafanchan A,Partially Vaccinated,Severe/Hospitalized,2026-04-24
+DIP-170,3,Male,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-04-24
+DIP-171,10,Female,Jagindi,Fully Vaccinated,Recovered,2026-04-25
+DIP-172,5,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-04-25
+DIP-173,12,Female,Asso,Fully Vaccinated,Recovered,2026-04-26
+DIP-174,2,Male,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-04-26
+DIP-175,8,Female,Kaninkon,Partially Vaccinated,Recovered,2026-04-27
+DIP-176,6,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-04-27
+DIP-177,13,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-04-28
+DIP-178,4,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-04-28
+DIP-179,9,Female,Godogodo,Fully Vaccinated,Recovered,2026-04-29
+DIP-180,3,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-04-29
+DIP-181,11,Female,Gidan Waya,Partially Vaccinated,Recovered,2026-04-30
+DIP-182,5,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-04-30
+DIP-183,7,Female,Kafanchan A,Fully Vaccinated,Recovered,2026-05-01
+DIP-184,2,Male,Kafanchan B,Unvaccinated,Severe/Hospitalized,2026-05-01
+DIP-185,10,Female,Jagindi,Fully Vaccinated,Recovered,2026-05-02
+DIP-186,6,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-02
+DIP-187,14,Female,Asso,Fully Vaccinated,Recovered,2026-05-03
+DIP-188,4,Male,Gidan Waya,Unvaccinated,Severe/Hospitalized,2026-05-03
+DIP-189,8,Female,Kaninkon,Partially Vaccinated,Recovered,2026-05-04
+DIP-190,3,Male,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-05-04
+DIP-191,12,Female,Kafanchan B,Fully Vaccinated,Recovered,2026-05-05
+DIP-192,5,Male,Jagindi,Unvaccinated,Severe/Hospitalized,2026-05-05
+DIP-193,9,Female,Godogodo,Partially Vaccinated,Recovered,2026-05-06
+DIP-194,2,Male,Asso,Unvaccinated,Severe/Hospitalized,2026-05-06
+DIP-195,11,Female,Gidan Waya,Fully Vaccinated,Recovered,2026-05-07
+DIP-196,6,Male,Kaninkon,Unvaccinated,Severe/Hospitalized,2026-05-07
+DIP-197,4,Female,Kafanchan A,Unvaccinated,Severe/Hospitalized,2026-05-08
+DIP-198,13,Male,Kafanchan B,Fully Vaccinated,Recovered,2026-05-08
+DIP-199,7,Female,Jagindi,Partially Vaccinated,Recovered,2026-05-09
+DIP-200,3,Male,Godogodo,Unvaccinated,Severe/Hospitalized,2026-05-09
